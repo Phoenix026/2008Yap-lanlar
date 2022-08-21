@@ -1,0 +1,11 @@
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\NEW TREND\source\repos\WinFormApp\WinFormApp\obj\Debug\WinFormApp.pdb
