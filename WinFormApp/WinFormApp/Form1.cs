@@ -55,6 +55,12 @@ namespace WinFormApp
             lbl_As.Text = "TC Kimlik No:";
             this.Controls.Add(lbl_As);
 
+            Label lbl_Selams = new Label();
+            lbl_Selams.Size = new Size(100, 20);
+            lbl_Selams.Location = new Point(430, 120);
+            lbl_Selams.Text = "Yaş:";
+            this.Controls.Add(lbl_Selams);
+
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -63,6 +69,11 @@ namespace WinFormApp
         }
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
